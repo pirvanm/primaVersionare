@@ -43,3 +43,5 @@ git commit -m "un mesaj dat de tine"
 -m(message)
 
 #8 git push 
+
+
